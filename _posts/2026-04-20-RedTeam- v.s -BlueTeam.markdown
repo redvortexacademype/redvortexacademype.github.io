@@ -1,4 +1,6 @@
-# Red Team vs. Blue Team: ¿Cómo elegir tu primer paso en Ciberseguridad?
+# Red Team vs. Blue Team: 
+
+¿Cómo elegir tu primer paso en Ciberseguridad?
 
 Elegir entre el **Red Team** y el **Blue Team** no debería ser una decisión basada en moda, sino en tu forma de pensar, tus habilidades y el tipo de impacto que quieres generar.
 
@@ -23,7 +25,6 @@ El **Blue Team** representa la estabilidad y la protección. No es un rol pasivo
 * **Contención:** Medidas inmediatas para limitar el impacto de un ataque activo.
 * **Mejora continua:** Ajuste de políticas y herramientas basándose en las lecciones aprendidas.
 
-
 ## Diferencias clave
 
 | Característica | Red Team | Blue Team |
@@ -34,8 +35,6 @@ El **Blue Team** representa la estabilidad y la protección. No es un rol pasivo
 | **Ritmo de Trabajo** | Basado en proyectos o campañas. | Continuo y operativo (24/7 en muchos casos). |
 | **Interacción con Negocio** | Demuestra el impacto de un fallo de seguridad. | Garantiza la continuidad y el cumplimiento. |
 
-
-
 ## ¿Qué perfil encaja mejor en cada ruta?
 
 No se trata de cuál ruta es "mejor", sino de cuál resuena con tu forma de procesar problemas:
@@ -45,7 +44,6 @@ Encajas aquí si te apasiona desarmar cosas para entender cómo funcionan. Si di
 
 ### 2. El perfil analítico y metódico (Blue Team)
 Esta es tu ruta si te gusta armar rompecabezas complejos y encontrar patrones donde otros solo ven datos. Si prefieres construir defensas sólidas, investigar el "porqué" de una alerta y gestionar situaciones de crisis bajo presión operativa, te destacarás en la defensa.
-
 
 ## Cómo elegir tu ruta
 
