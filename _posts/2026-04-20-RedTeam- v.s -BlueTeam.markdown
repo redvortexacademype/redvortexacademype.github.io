@@ -1,8 +1,6 @@
-# ¿Cómo elegir tu primer paso en Ciberseguridad?
+## ¿Cómo elegir tu primer paso en Ciberseguridad?
 
-
-
-Elegir entre el **Red Team** y el **Blue Team** no debería ser una decisión basada en moda, sino en tu forma de pensar, tus habilidades y el tipo de impacto que quieres generar.
+Elegir entre el **Red Team** (equipo rojo) y el **Blue Team** (equipo azul) no debería ser una decisión basada en moda, sino en tu forma de pensar, tus habilidades y el tipo de impacto que quieres generar.
 
 Si eres estudiante, autodidacta o estás considerando un cambio de carrera hacia la ciberseguridad, es normal sentir confusión ante estos términos. A menudo se cree que se debe elegir un bando rápidamente, pero la realidad es que cada ruta requiere una mentalidad y un ritmo de trabajo completamente distintos. En este artículo, desglosamos ambas rutas para ayudarte a identificar cuál se adapta mejor a tu perfil.
 
